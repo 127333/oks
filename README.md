@@ -1,5 +1,5 @@
 {
-"lol":"https://wap.v881888.com/aomen/",
+"lol":"http://www.xin85888.com",
 "objectId":"1",
 "isShowTabbar":1
 }
