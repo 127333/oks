@@ -1,5 +1,5 @@
 {
-"lol":"http://m.66509.cc/home",
+"lol":"",
 "objectId":"1",
 "isShowTabbar":1
 }
